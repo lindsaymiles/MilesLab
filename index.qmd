@@ -35,10 +35,7 @@ The deep shared history of humans and the insects that followed us into cities.
 ### Pesticide resistance
 The genomic basis of adaptation to insecticides in urban pest populations.
 :::
-::: {.theme-card}
-### Global invaders
-Comparative genomics of arthropods spreading across continents.
-:::
+
 :::
 
 [Read more about our research →](research.qmd)
