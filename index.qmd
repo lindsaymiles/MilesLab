@@ -12,6 +12,7 @@ listing:
   filter-ui: false
 ---
 
+![](images/banner.jpg){.banner fig-alt="Describe your photo here"}
 ::: {.hero}
 # How do cities shape evolution?
 
