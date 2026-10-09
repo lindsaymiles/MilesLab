@@ -77,3 +77,18 @@ $headings-font-weight:   600;
 
 // Bold lab members in the publication list (wrap names in **...** in the .bib)
 .csl-entry { margin-bottom: .9rem; }
+
+// Home page banner image
+.banner {
+  width: 100%;
+  height: 340px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 6px;
+}
+p:has(> .banner) { margin-bottom: 0; }
+p:has(> .banner) + .hero { padding-top: 1.75rem; }
+p:has(> .banner) + .hero h1 { margin-top: 0; }
+@media (max-width: 768px) {
+  .banner { height: 180px; }
+}
