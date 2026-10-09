@@ -1,0 +1,13 @@
+---
+# Copy this file to people/firstname-lastname.qmd (no leading underscore) to add someone.
+title: "First Last"
+subtitle: "PhD Student"            # or Postdoc, Undergraduate Researcher, Lab Manager...
+group: "member"
+order: 10                          # lower numbers appear first
+image: ../images/people/placeholder.svg
+description: "One sentence about their research interests."
+---
+
+A short bio: background, current project, and a fun fact.
+
+**Contact:** name@purdue.edu

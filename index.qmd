@@ -1,0 +1,51 @@
+---
+title: ""
+page-layout: full
+listing:
+  id: recent-news
+  contents: news/posts
+  sort: "date desc"
+  type: table
+  max-items: 3
+  fields: [date, title]
+  sort-ui: false
+  filter-ui: false
+---
+
+::: {.hero}
+# How do cities shape evolution?
+
+[The Miles Lab at Purdue University studies how urbanization and human activity drive the evolution of the organisms that live alongside us, like bed bugs and cockroaches. We combine fieldwork, molecular lab work, and population genomics to understand gene flow, drift, and adaptation in a human-built world.]{.lead}
+:::
+
+## Research themes
+
+::: {.theme-grid}
+::: {.theme-card}
+### Urban evolution & gene flow
+How cities connect or isolate populations, and what that means for genetic diversity.
+:::
+::: {.theme-card}
+### Our oldest pests
+The deep shared history of humans and the insects that followed us into cities.
+:::
+::: {.theme-card}
+### Pesticide resistance
+The genomic basis of adaptation to insecticides in urban pest populations.
+:::
+::: {.theme-card}
+### Global invaders
+Comparative genomics of arthropods spreading across continents.
+:::
+:::
+
+[Read more about our research →](research.qmd)
+
+## Latest news
+
+::: {#recent-news}
+:::
+
+::: {.cta}
+**We're recruiting!** The lab is looking for undergraduate researchers. [Learn how to join →](join.qmd)
+:::

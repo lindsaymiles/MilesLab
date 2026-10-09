@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Miles Lab"
+  description: "Urban evolution and population genomics at Purdue University"
+  site-url: "https://YOUR-GITHUB-USERNAME.github.io/miles-lab"   # TODO: update after first publish
+  repo-url: "https://github.com/YOUR-GITHUB-USERNAME/miles-lab"   # TODO
+  favicon: images/favicon.svg
+  page-navigation: false
+  navbar:
+    logo: images/logo.svg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: join.qmd
+        text: Join the Lab
+      - href: news.qmd
+        text: News
+      - href: resources.qmd
+        text: Resources
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: "https://github.com/YOUR-GITHUB-USERNAME"   # TODO
+        aria-label: GitHub
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/"                # TODO: your Scholar profile
+        aria-label: Google Scholar
+  page-footer:
+    left: "© 2026 Miles Lab · Purdue University"
+    right:
+      - text: "Purdue faculty profile"
+        href: "https://www.purdue.edu/"                    # TODO: your Purdue profile URL
+      - text: "Built with Quarto"
+        href: "https://quarto.org"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

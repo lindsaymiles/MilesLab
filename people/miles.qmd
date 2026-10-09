@@ -1,0 +1,23 @@
+---
+title: "Lindsay Miles, PhD"
+subtitle: "Principal Investigator"
+group: "pi"
+order: 0
+image: ../images/people/PostdocPic.jpg   # TODO: replace with your headshot
+description: "Evolutionary biologist studying population genetics and the evolutionary consequences of urbanization."
+---
+
+I study how urbanization shapes gene flow, genetic drift, and adaptation in organisms that live alongside people. My work combines field ecology, molecular lab work, genomics, and bioinformatics, with a focus on urban arthropods such as bed bugs, cockroaches, black widow spiders, and other arthropods.
+
+**Background** 
+
+- Postdoctoral researcher, Department of Entomology, Virginia Tech, PI: [Dr. Warren Booth](https://www.booth-lab.org/)
+- Postdoctoral researcher, Department of Biology, University of Toronto Mississauga PI: [Dr. Marc Johnson](https://evoecolab.wordpress.com/)
+- PhD, Integrative Life Sciences, Virginia Commonwealth University, PI: [Dr. Brian Verrelli](https://www.bcverrellilab.org/contact)
+
+I am a co-founder of the Urban Evolution blog, which shares urban evolutionary research with the public, and a member of the Urban Eco-Evo Network.
+
+[CV (PDF)](#){.btn .btn-outline-primary .btn-sm} &nbsp;
+[Google Scholar](https://scholar.google.com/citations?user=3Ctwh-8AAAAJ&hl=en){.btn .btn-outline-primary .btn-sm}
+
+<!-- TODO: add your ORCID and Scholar URLs above, and link your CV (e.g. upload to files/ and use ../files/Miles_CV.pdf) -->

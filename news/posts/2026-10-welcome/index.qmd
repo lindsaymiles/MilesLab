@@ -1,0 +1,12 @@
+---
+title: "The Miles Lab opens at Purdue"
+date: 2026-10-08
+categories: [lab news]
+description: "We're setting up shop and recruiting our first lab members."
+---
+
+The Miles Lab is officially up and running at Purdue University! We'll study how cities and human activity shape the evolution of the organisms that live alongside us.
+
+We're recruiting graduate students, postdocs, and undergraduate researchers. See the [Join the Lab](../../../join.qmd) page for details.
+
+<!-- To add a post: copy this folder, rename it (e.g. 2026-11-new-paper), and edit index.qmd. -->

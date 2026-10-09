@@ -1,0 +1,41 @@
+---
+title: "People"
+listing:
+  - id: pi
+    contents: people/miles.qmd
+    type: default
+    image-height: 200px
+    fields: [image, title, subtitle, description]
+  - id: members
+    contents: "people/*.qmd"
+    exclude:
+      group: "pi"
+    type: grid
+    grid-columns: 3
+    sort: "order"
+    fields: [image, title, subtitle, description]
+    filter-ui: false
+    sort-ui: false
+---
+
+## Principal Investigator
+
+::: {#pi}
+:::
+
+## Lab members
+
+::: {#members}
+:::
+
+*We're just getting started. [Could this be you?](join.qmd)*
+
+## Alumni
+
+*Our first alumni will be listed here.*
+
+<!--
+To add a person: copy people/_template.qmd to people/firstname-lastname.qmd,
+fill it in, and drop their photo in images/people/.
+Files whose names start with "_" are ignored by Quarto.
+-->

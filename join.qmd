@@ -1,0 +1,29 @@
+---
+title: "Join the Lab"
+---
+
+The Miles Lab is a new, growing group, and we're looking for curious people who want to study evolution in the places humans live. Our projects span fieldwork, molecular lab work, and computational genomics, and you don't need to arrive with all three. A willingness to learn matters more than prior experience.
+
+## Graduate students
+
+I'm happy to support applications for independent fellowships (e.g., NSF GRFP) and will post funded positions here when available.
+
+## Postdoctoral researchers
+
+I'm happy to support applications for independent fellowships (e.g., NSF PRFB, USDA NIFA) and will post funded positions here when available.
+
+## Undergraduate researchers
+
+Undergraduates can get involved through independent study, volunteer positions, or summer research programs. No experience needed. Just reach out with a brief note about your interests and your availability.
+
+## What you'll learn
+
+- Field sampling and specimen handling
+- DNA extraction, library preparation, and sequencing workflows
+- Population genetic and genomic analysis in R, Python, and on high-performance computing clusters
+- Scientific writing, presentation, and science communication
+
+
+::: {.cta}
+**Interested?** Email Dr. Miles at lsmiles @ purdue.edu 
+:::

@@ -1,0 +1,21 @@
+---
+title: "Publications"
+bibliography: publications.bib
+nocite: |
+  @*
+citeproc: true
+---
+
+For the full list, see [Google Scholar](https://scholar.google.com/citations?user=3Ctwh-8AAAAJ&hl=en).
+
+<!--
+How to update:
+  1. Export your references as BibTeX (from Zotero, Google Scholar, or ORCID)
+     and paste them into publications.bib.
+  2. Every entry in the .bib file appears below automatically, newest first.
+  3. To change citation style, download a .csl file (zotero.org/styles)
+     into this folder and add `csl: yourstyle.csl` to the header above.
+-->
+
+::: {#refs}
+:::

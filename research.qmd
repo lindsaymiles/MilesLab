@@ -1,0 +1,44 @@
+---
+title: "Research"
+subtitle: "Population genomics of life in a human-built world"
+---
+
+Cities are among the fastest-changing environments on Earth. We use population genetics and genomics to ask how urbanization, human movement, and pest control reshape the evolution of the organisms that share our homes and cities. Our work integrates field sampling, molecular lab work, whole-genome sequencing, and landscape and demographic modeling.
+
+<!-- TODO: Add a photo for each theme: ![](images/your-photo.jpg){fig-alt="Description"} -->
+
+::: {.research-theme}
+## Urban evolution and gene flow
+
+Do cities act as barriers or highways for gene flow? We test how urban landscapes, infrastructure, and human-mediated transport shape connectivity, genetic drift, and effective population size in urban populations. Past work has shown that urbanization can *facilitate* gene flow within and between cities.
+
+**Key papers:** [Add 1–3 citations or links]
+:::
+
+::: {.research-theme}
+## Our oldest pests: humans and the insects that followed us
+
+Some insects have lived with humans for tens of thousands of years. Using whole-genome data and demographic modeling, we reconstruct how pests like bed bugs and German cockroaches tracked human history, from cave dwelling to the first cities to modern global travel.
+
+**Key papers:** [Add 1–3 citations or links]
+:::
+
+::: {.research-theme}
+## Pesticide resistance and genomic adaptation
+
+Urban pests evolve rapidly under insecticide pressure. We map resistance mutations, scan genomes for signatures of selection, and ask how socioeconomic differences between neighborhoods shape exposure and adaptation.
+
+**Key papers:** [Add 1–3 citations or links]
+:::
+
+::: {.research-theme}
+## Comparative genomics of global invaders
+
+Many arthropods now span continents. Working with collaborators in the USA, Japan, and Korea, we compare population structure and invasion history.
+
+**Key papers:** [Add 1–3 citations or links]
+:::
+
+## Funding
+
+[Add funding agencies and grant titles here as they come in.]
