@@ -5,8 +5,8 @@ project:
 website:
   title: "Miles Lab"
   description: "Urban evolution and population genomics at Purdue University"
-  site-url: "https://YOUR-GITHUB-USERNAME.github.io/miles-lab"   # TODO: update after first publish
-  repo-url: "https://github.com/YOUR-GITHUB-USERNAME/miles-lab"   # TODO
+  site-url: "https://lindsaymiles.github.io/MilesLab/"   
+  repo-url: "https://github.com/lindsaymiles/MilesLab"   
   favicon: images/favicon.svg
   page-navigation: false
   navbar:
@@ -30,10 +30,10 @@ website:
         text: Contact
     right:
       - icon: github
-        href: "https://github.com/YOUR-GITHUB-USERNAME"   # TODO
+        href: "https://github.com/lindsaymiles"   # TODO
         aria-label: GitHub
       - icon: mortarboard-fill
-        href: "https://scholar.google.com/"                # TODO: your Scholar profile
+        href: "https://scholar.google.com/citations?user=3Ctwh-8AAAAJ&hl=en"                # TODO: your Scholar profile
         aria-label: Google Scholar
   page-footer:
     left: "© 2026 Miles Lab · Purdue University"
