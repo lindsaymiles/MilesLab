@@ -17,7 +17,7 @@ I study how urbanization shapes gene flow, genetic drift, and adaptation in orga
 
 I am a co-founder of the Urban Evolution blog, which shares urban evolutionary research with the public, and a member of the Urban Eco-Evo Network.
 
-[CV (PDF)](#){.btn .btn-outline-primary .btn-sm} &nbsp;
+[CV (PDF)](../files/Miles_CV.pdy){.btn .btn-outline-primary .btn-sm} &nbsp;
 [Google Scholar](https://scholar.google.com/citations?user=3Ctwh-8AAAAJ&hl=en){.btn .btn-outline-primary .btn-sm}
 
 <!-- TODO: add your ORCID and Scholar URLs above, and link your CV (e.g. upload to files/ and use ../files/Miles_CV.pdf) -->
