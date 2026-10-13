@@ -8,13 +8,17 @@ Cities are among the fastest-changing environments on Earth. We use population g
 <!-- TODO: Add a photo for each theme: ![](images/your-photo.jpg){fig-alt="Description"} -->
 
 ::: {.research-theme}
-## Urban evolution and gene flow
+## Urban evolution: gene flow and genetic drift
 
-Do cities act as barriers or highways for gene flow? We test how urban landscapes, infrastructure, and human-mediated transport shape connectivity, genetic drift, and effective population size in urban populations. Past work has shown that urbanization can *facilitate* gene flow within and between cities.
+Do cities act as barriers or highways for gene flow? Do cities increase or decrease genetic drift? We test how urban landscapes, infrastructure, and human-mediated transport shape connectivity, genetic drift, and effective population size in urban populations. Past work has shown that urbanization can *facilitate* gene flow within and between cities.
 
 **Key papers:** 
 
 Miles LS, Rivkin LR, Munshi-South J, Johnson MTJ, & Verrelli BC. 2019. [Gene flow and genetic drift in urban environments](https://doi.org/10.1111/mec.15221). Molecular Ecology, 28, 4138–4151. 
+
+Miles LS, Carlen EJ, Nassrullah Z, Munshi-South J, Johnson MTJ. 2025. [No detectable effect of urbanization on genetic drift or gene flow in specialist herbivorous insects of milkweed.](https://doi.org/10.1371/journal.pone.0318956) PloS One.
+
+![Milkweed specialist insects PCA from ddRADseq SNPs](images/photo.jpg){fig-alt="Describe the photo" width="60%" fig-align="center" .rounded}
 
 Miles LS, Dyer RJ, & Verrelli BC. 2018. [Urban hubs of connectivity: Contrasting patterns of gene flow within and among cities in the Western black widow spider](https://doi.org/10.1098/rspb.2018.1224). Proceedings of the Royal Society B, 285, 20181224. 
 
@@ -46,6 +50,26 @@ Block CJ, Miles LS, Lewis CD, Schal C, Vargo EL, Booth W. 2025. [First evidence 
 :::
 
 
-## Funding
-
-None yet!
+// Row of three photos (stacks on phones)
+.photo-panel {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.75rem 0;
+  .quarto-figure, figure { margin: 0; }
+  img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 6px;
+  }
+  figcaption {
+    font-size: .85rem;
+    color: #555;
+    margin-top: .35rem;
+    text-align: center;
+  }
+}
+@media (max-width: 640px) {
+  .photo-panel { grid-template-columns: 1fr; }
+}
