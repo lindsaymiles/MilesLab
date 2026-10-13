@@ -20,3 +20,9 @@ And of course there's the textbook, [Urban Evolutionary Biology](https://global.
 
 ::: {.clearfix}
 :::
+
+[![Life in the City logo](images/litc.jpeg){.float-end .ms-4 .mb-3 width="150"}](https://urbanevolution-litc.com/)
+I also helped start [Life in the City, the Urban Evolution blog](https://urbanevolution-litc.com/), which reviews new literature in urban evolution and highlights conferences and new research.
+
+::: {.clearfix}
+:::
