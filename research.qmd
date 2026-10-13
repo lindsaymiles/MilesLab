@@ -16,9 +16,11 @@ Do cities act as barriers or highways for gene flow? Do cities increase or decre
 
 Miles LS, Rivkin LR, Munshi-South J, Johnson MTJ, & Verrelli BC. 2019. [Gene flow and genetic drift in urban environments](https://doi.org/10.1111/mec.15221). Molecular Ecology, 28, 4138–4151. 
 
+![Expectations of gene flow and genetic drift in cities](images/milesrivkin.png){fig-alt="Describe the photo" width="60%" fig-align="center" .rounded}
+
 Miles LS, Carlen EJ, Nassrullah Z, Munshi-South J, Johnson MTJ. 2025. [No detectable effect of urbanization on genetic drift or gene flow in specialist herbivorous insects of milkweed.](https://doi.org/10.1371/journal.pone.0318956) PloS One.
 
-![Milkweed specialist insects PCA from ddRADseq SNPs](images/photo.jpg){fig-alt="Describe the photo" width="60%" fig-align="center" .rounded}
+![Milkweed specialist insects PCA from ddRADseq SNPs](images/milkweed.jpg){fig-alt="Describe the photo" width="60%" fig-align="center" .rounded}
 
 Miles LS, Dyer RJ, & Verrelli BC. 2018. [Urban hubs of connectivity: Contrasting patterns of gene flow within and among cities in the Western black widow spider](https://doi.org/10.1098/rspb.2018.1224). Proceedings of the Royal Society B, 285, 20181224. 
 
@@ -32,9 +34,14 @@ Tassone E, Miles LS, Rosenberg MS, Dyer RJ, Verrelli BC. 2021. [Evolutionary sta
 
 Some insects have lived with humans for tens of thousands of years. Using whole-genome data and demographic modeling, we reconstruct how pests like bed bugs and German cockroaches tracked human history, from cave dwelling to the first cities to modern global travel.
 
+
 **Key papers:** 
 
 Miles LS, Verrelli BC, Adams R, Francioli YZ, Card DC, Balvin O, Castoe TA, Booth W. 2025. [Were bed bugs the first urban pest insect? Genome-wide patterns of bed bug demography mirror global human expansion](https://doi.org/10.1098/rsbl.2025.0061). Biology Letters 21, 20250061. 
+
+Miles LS, Adams R, Franciolo YZ, Card DC, Castoe TA, Booth W. 2024. A chromosome-level reference genome for the common bed bug, Cimex lectularius, with identification of sex chromosomes. Journal of Heredity.
+
+
 :::
 
 ::: {.research-theme}
