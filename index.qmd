@@ -12,7 +12,7 @@ listing:
   filter-ui: false
 ---
 
-![](images/logo2.svg){.banner fig-alt="Describe your photo here"}
+![](images/logo2.svg){.banner fig-alt="City skyline with the common bed bug, DNA helix, and German cockroach"}
 
 ::: {.hero}
 # How do cities shape evolution?
