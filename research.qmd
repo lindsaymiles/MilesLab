@@ -67,32 +67,3 @@ Block CJ, Miles LS, Lewis CD, Schal C, Vargo EL, Booth W. 2025. [First evidence 
 :::
 
 
-// Row of three photos (stacks on phones)
-.photo-panel {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-  margin: 1.75rem 0;
-  .quarto-figure, figure { margin: 0; }
-  img {
-    width: 100%;
-    aspect-ratio: 4 / 3;
-    object-fit: cover;
-    border-radius: 6px;
-  }
-  figcaption {
-    font-size: .85rem;
-    color: #555;
-    margin-top: .35rem;
-    text-align: center;
-  }
-}
-@media (max-width: 640px) {
-  .photo-panel { grid-template-columns: 1fr; }
-}
-
-// Two-photo version of the panel
-.photo-panel.two { grid-template-columns: repeat(2, 1fr); }
-@media (max-width: 640px) {
-  .photo-panel.two { grid-template-columns: 1fr; }
-}
