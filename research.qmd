@@ -10,17 +10,15 @@ Cities are among the fastest-changing environments on Earth. We use population g
 ::: {.research-theme}
 ## Urban evolution: gene flow and genetic drift
 
+![Expectations of gene flow and genetic drift in cities](images/milesrivkin.png){fig-alt="Describe the photo" width="60%" fig-align="center" .rounded}
+
 Do cities act as barriers or highways for gene flow? Do cities increase or decrease genetic drift? We test how urban landscapes, infrastructure, and human-mediated transport shape connectivity, genetic drift, and effective population size in urban populations. Past work has shown that urbanization can *facilitate* gene flow within and between cities.
 
 **Key papers:** 
 
 Miles LS, Rivkin LR, Munshi-South J, Johnson MTJ, & Verrelli BC. 2019. [Gene flow and genetic drift in urban environments](https://doi.org/10.1111/mec.15221). Molecular Ecology, 28, 4138–4151. 
 
-![Expectations of gene flow and genetic drift in cities](images/milesrivkin.png){fig-alt="Describe the photo" width="60%" fig-align="center" .rounded}
-
 Miles LS, Carlen EJ, Nassrullah Z, Munshi-South J, Johnson MTJ. 2025. [No detectable effect of urbanization on genetic drift or gene flow in specialist herbivorous insects of milkweed.](https://doi.org/10.1371/journal.pone.0318956) PloS One.
-
-![Milkweed specialist insects PCA from ddRADseq SNPs](images/milkweed.png){fig-alt="Describe the photo" width="60%" fig-align="center" .rounded}
 
 Miles LS, Dyer RJ, & Verrelli BC. 2018. [Urban hubs of connectivity: Contrasting patterns of gene flow within and among cities in the Western black widow spider](https://doi.org/10.1098/rspb.2018.1224). Proceedings of the Royal Society B, 285, 20181224. 
 
@@ -32,13 +30,13 @@ Tassone E, Miles LS, Rosenberg MS, Dyer RJ, Verrelli BC. 2021. [Evolutionary sta
 ::: {.research-theme}
 ## Our oldest pests: humans and the insects that followed us
 
-Some insects have lived with humans for tens of thousands of years. Using whole-genome data and demographic modeling, we reconstruct how pests like bed bugs and German cockroaches tracked human history, from cave dwelling to the first cities to modern global travel.
-
 ::: {.photo-panel .two}
 ![Cimex lectularious genome](images/Clectchrom.jpg){fig-alt="Describe photo 1"}
 
 ![Bed bug Demography through time](images/sizevtime.jpg){fig-alt="Describe photo 2"}
 :::
+
+Some insects have lived with humans for tens of thousands of years. Using whole-genome data and demographic modeling, we reconstruct how pests like bed bugs and German cockroaches tracked human history, from cave dwelling to the first cities to modern global travel.
 
 **Key papers:** 
 
@@ -46,11 +44,18 @@ Miles LS, Verrelli BC, Adams R, Francioli YZ, Card DC, Balvin O, Castoe TA, Boot
 
 Miles LS, Adams R, Franciolo YZ, Card DC, Castoe TA, Booth W. 2024. A chromosome-level reference genome for the common bed bug, Cimex lectularius, with identification of sex chromosomes. Journal of Heredity.
 
-
 :::
 
 ::: {.research-theme}
 ## Pesticide resistance and genomic adaptation
+
+::: {.photo-panel}
+![Bed bugs](images/bedbug_base.jpeg){fig-alt="Describe photo 1"}
+
+![Admixture between USA, CAnada, and EU from msat data](images/admix.png){fig-alt="Describe photo 2"}
+
+![Knowdown resistance diagram](images/mutation.png.jpg){fig-alt="Describe photo 3"}
+:::
 
 Urban pests evolve rapidly under insecticide pressure. We map resistance mutations, scan genomes for signatures of selection, and ask how socioeconomic differences between neighborhoods shape exposure and adaptation.
 
