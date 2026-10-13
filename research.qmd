@@ -20,7 +20,7 @@ Miles LS, Rivkin LR, Munshi-South J, Johnson MTJ, & Verrelli BC. 2019. [Gene flo
 
 Miles LS, Carlen EJ, Nassrullah Z, Munshi-South J, Johnson MTJ. 2025. [No detectable effect of urbanization on genetic drift or gene flow in specialist herbivorous insects of milkweed.](https://doi.org/10.1371/journal.pone.0318956) PloS One.
 
-![Milkweed specialist insects PCA from ddRADseq SNPs](images/milkweed.jpg){fig-alt="Describe the photo" width="60%" fig-align="center" .rounded}
+![Milkweed specialist insects PCA from ddRADseq SNPs](images/milkweed.png){fig-alt="Describe the photo" width="60%" fig-align="center" .rounded}
 
 Miles LS, Dyer RJ, & Verrelli BC. 2018. [Urban hubs of connectivity: Contrasting patterns of gene flow within and among cities in the Western black widow spider](https://doi.org/10.1098/rspb.2018.1224). Proceedings of the Royal Society B, 285, 20181224. 
 
@@ -34,6 +34,11 @@ Tassone E, Miles LS, Rosenberg MS, Dyer RJ, Verrelli BC. 2021. [Evolutionary sta
 
 Some insects have lived with humans for tens of thousands of years. Using whole-genome data and demographic modeling, we reconstruct how pests like bed bugs and German cockroaches tracked human history, from cave dwelling to the first cities to modern global travel.
 
+::: {.photo-panel .two}
+![Cimex lectularious genome](images/Clectchrom.jpg){fig-alt="Describe photo 1"}
+
+![Bed bug Demography through time](images/sizevtime.jpg){fig-alt="Describe photo 2"}
+:::
 
 **Key papers:** 
 
@@ -79,4 +84,10 @@ Block CJ, Miles LS, Lewis CD, Schal C, Vargo EL, Booth W. 2025. [First evidence 
 }
 @media (max-width: 640px) {
   .photo-panel { grid-template-columns: 1fr; }
+}
+
+// Two-photo version of the panel
+.photo-panel.two { grid-template-columns: repeat(2, 1fr); }
+@media (max-width: 640px) {
+  .photo-panel.two { grid-template-columns: 1fr; }
 }
