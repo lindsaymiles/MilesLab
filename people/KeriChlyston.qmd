@@ -1,0 +1,13 @@
+---
+# Copy this file to people/firstname-lastname.qmd (no leading underscore) to add someone.
+title: "Keri Chlyston"
+subtitle: "Undergrad Student"            # or Postdoc, Undergraduate Researcher, Lab Manager...
+group: "member"
+order: 10                          # lower numbers appear first
+image: ../images/people/placeholder.svg
+description: "I am interested in where science meets policy."
+---
+
+A short bio: background, current project, and a fun fact.
+
+**Contact:** name@purdue.edu
