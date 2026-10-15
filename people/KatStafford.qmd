@@ -1,7 +1,7 @@
 ---
 # Copy this file to people/firstname-lastname.qmd (no leading underscore) to add someone.
 title: "Kat Stafford"
-subtitle: "Undergrad Student"            # or Postdoc, Undergraduate Researcher, Lab Manager...
+subtitle: "Undergrad Researcher"            # or Postdoc, Undergraduate Researcher, Lab Manager...
 group: "member"
 order: 3                         # lower numbers appear first
 image: ../images/people/placeholder.svg
