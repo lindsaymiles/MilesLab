@@ -1,4 +1,4 @@
-.---
+---
 # Copy this file to people/firstname-lastname.qmd (no leading underscore) to add someone.
 title: "Keri Chlystun"
 subtitle: "Undergrad Researcher"            # or Postdoc, Undergraduate Researcher, Lab Manager...
