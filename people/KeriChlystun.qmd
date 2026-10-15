@@ -1,0 +1,13 @@
+---
+# Copy this file to people/firstname-lastname.qmd (no leading underscore) to add someone.
+title: "Keri Chlystun"
+subtitle: "Undergrad Researcher"            # or Postdoc, Undergraduate Researcher, Lab Manager...
+group: "member"
+order: 10                          # lower numbers appear first
+image: ../images/people/placeholder.svg
+description: "I am interested in where science meets policy."
+---
+
+I am an undergraduate student at Purdue University studying Entomology with a minor in Political Science. My research interests include insect genetics, evolution, and molecular biology. I am especially interested in understanding how scientific research can inform policy makers and help bridge the gap between scientific discoveries and government decision-making. By working with Dr. Miles I hope to expand my knowledge of genetics, develop my lab skills, and gain more hands-on research experience. 
+
+
